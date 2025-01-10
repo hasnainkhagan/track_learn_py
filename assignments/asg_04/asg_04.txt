@@ -1,0 +1,4 @@
+Create custom module as per you need and import it in any python file and utilise it functionality. 
+1. Create a custom module file. 
+2. Create some custom methods in it.
+3. Import these methods into another Python file and print the results
